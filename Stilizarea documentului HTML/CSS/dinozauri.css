@@ -1,0 +1,52 @@
+h1{
+font-family: Times New Roman;
+font-size:50px;
+font-weight: bold;
+color: blue;
+text-align: center;
+text-shadow: 3px 3px #022f88;
+}
+
+#introducere{
+	font-family: Times New Roman;
+	font-size: 20px;
+	text-align: justify;
+	word-spacing: 2px;
+	line-height: 20px;
+	border-style: double ;
+	border-width: 8px;
+	border-color: black green black green;
+	background-color: #bcf5e0;
+	padding: 5px;
+	text-indent: 50px;
+}
+
+#clasificare{
+	font-family: Times New Roman;
+	font-size: 20px;
+	display: block;
+	margin: auto;
+	text-align: justify;
+    text-indent: 50px;	
+	
+}
+
+ol{
+	text-decoration: underline;	
+}
+img{
+	border: double;
+	border-color: black green black green;
+	border-width: 5px;
+}
+
+a:visited{
+	color:green;
+}
+a:hover{
+	color:red;
+}
+
+body{
+background-color: #eeeeee;
+}
